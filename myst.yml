@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 62242c58-d482-4d01-8dd5-fab499229415
+  title: Ingeniería en Computación - UNRN Andina
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/INGCOM-UNRN/INGCOM-UNRN.github.io
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
