@@ -16,16 +16,19 @@ project:
     - file: 3.md
     - file: 4.md
     - file: 5.md
-    - title: Plan 2021
     - file: plan_2021/plan.md
       children:
         - file: plan_2021/alcances.md
         - title: Materias
           children:
             - file: plan_2021/materias/matematica_i.md
-    
+
 site:
   template: book-theme
-  # options:
+  logo: ./img/logo_rect.svg
+  options:
+    style: ./css/footer.css
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+  parts:
+    footer: footer.md
+  
