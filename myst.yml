@@ -28,7 +28,7 @@ site:
   logo: ./img/logo_rect.svg
   options:
     style: ./css/footer.css
-  #   favicon: favicon.ico
+    favicon: ./img/favicon.png
   parts:
     footer: footer.md
   
