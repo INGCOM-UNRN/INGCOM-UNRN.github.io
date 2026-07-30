@@ -25,7 +25,7 @@ project:
 
 site:
   template: book-theme
-  logo: ./img/logo_rect.svg
+  logo: ./img/unrn-ic_big.svg
   options:
     style: ./css/footer.css
     favicon: ./img/favicon.png

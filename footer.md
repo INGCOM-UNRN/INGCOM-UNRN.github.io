@@ -16,8 +16,8 @@
 
 # Universidad Nacional de Río Negro - Sede Andina
 
-```{image} ./img/footer_logo_unrn.svg
-:width: 200px
+```{image} ./img/unrn-ic_white.png
+:width: 400px
 :align: left
 ```
 ::::
